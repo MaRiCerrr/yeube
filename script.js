@@ -6,7 +6,7 @@ const noBtn = document.querySelector('.no-btn');
 
 yesBtn.addEventListener('click', () => {
     question.innerHTML = "Anh cũng yêu bé nhiềuuu";
-    gif.src = "/hihi/code/b.jpg";
+    gif.src = "./img/b.jpg";
 
 });
 
